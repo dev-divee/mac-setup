@@ -50,9 +50,17 @@ brew install --cask obsidian
 ```
 brew install --cask visual-studio-code
 ```
-### Install Arc
+### Install [Arc](https://arc.net/)
 - modern browser
 - better than Google Chrome (in my opinion)
 ```
 brew install --cask arc
+```
+### Install [AltTab](https://alt-tab-macos.netlify.app/)
+```
+brew install --cask alt-tab
+```
+### Install [Ollama](https://ollama.com/)
+```
+brew install ollama
 ```
