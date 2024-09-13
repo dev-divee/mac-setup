@@ -11,7 +11,7 @@ brew install --cask warp
 ```
 brew install --cask raycast
 ```
-Useful Extensions for Raycast:
+Useful [Extensions](https://www.raycast.com/store) for Raycast:
 - Base64
 - Cheatsheets
 - Clean Keyboard
@@ -49,4 +49,10 @@ brew install --cask obsidian
 ### Install [VS Code](https://code.visualstudio.com/)
 ```
 brew install --cask visual-studio-code
+```
+### Install Arc
+- modern browser
+- better than Google Chrome (in my opinion)
+```
+brew install --cask arc
 ```
