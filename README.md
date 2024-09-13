@@ -1,13 +1,13 @@
 # Mac Setup
-### Install Homebrew
+### Install [Homebrew](https://brew.sh/)
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### Install Warp
+### Install [Warp](https://www.warp.dev/)
 ```
 brew install --cask warp
 ```
-### Install Raycast
+### Install [Raycast](https://www.raycast.com/)
 ```
 brew install --cask raycast
 ```
@@ -42,3 +42,11 @@ Useful Extensions for Raycast:
 - Warp
 - Whatsapp
 - Wikipedia
+### Install [Obsidian](https://obsidian.md/)
+```
+brew install --cask obsidian
+```
+### Install [VS Code](https://code.visualstudio.com/)
+```
+brew install --cask visual-studio-code
+```
